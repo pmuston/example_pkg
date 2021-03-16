@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: example-pkg-pmuston
 Version: 0.0.3
 Summary: A small example package
-Home-page: https://github.com/pmuston/example_pkg
+Home-page: git@github.com/pmuston/example_pkg
 Author: Paul Muston
 Author-email: paul@musoft.co.uk
 License: UNKNOWN
